@@ -74,9 +74,20 @@ A fitness-focused web application for tracking workouts and managing workout pla
 *More projects are coming as I continue learning and building.*
 
 ---
-### 📈 GitHub Contribution Graph
+### 🐍 GitHub Contribution Snake
 
-[<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdadnanhossen&theme=github-compact&hide_border=true" width="100%" alt="Contribution Graph" />](https://github.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdadnanhossen/mdadnanhossen/output/github-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mdadnanhossen/mdadnanhossen/output/github-snake.svg" width="100%" />
+</picture>
+
+<br />
+
+### 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdadnanhossen&theme=github-dark&hide_border=true)](https://github.com/mdadnanhossen)
+
+[![GitHub Contributions](https://ghchart.rshah.org/2ea44f/mdadnanhossen)](https://github.com/mdadnanhossen)
 
 ## 📊 GitHub Statistics
 
