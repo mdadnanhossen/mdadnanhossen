@@ -76,9 +76,7 @@ A fitness-focused web application for tracking workouts and managing workout pla
 ---
 ### 📈 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdadnanhossen&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
-</p>
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdadnanhossen&theme=github-compact&hide_border=true" width="100%" alt="Contribution Graph" />](https://github.com)
 
 ## 📊 GitHub Statistics
 
